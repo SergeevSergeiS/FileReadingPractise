@@ -1,0 +1,9 @@
+{
+  "firstName": "Harry",
+  "lastName": "Potter",
+  "address": {
+    "streetAddress": "4 Privet Drive",
+    "city": "Little Whinging",
+    "postalCode": "CH61-1DE"
+  }
+}
